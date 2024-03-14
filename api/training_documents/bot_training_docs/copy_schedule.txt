@@ -1,0 +1,34 @@
+shiftTracker | How do I copy a schedule?
+Copy schedule from another timeline into the current timeline!
+ 
+Copies one past section of the schedule, whether a day, week, 2 weeks, 4 weeks, or a month (under visual or list view), to the timeline you have opened currently. 
+ 
+Access from your: Computer
+Applies to: Managers, Supervisors, and Schedulers
+ 
+How do I copy a schedule?
+Go to ShiftPlanning module from the top-panel > Go to the timeline you want the schedule to get copied to > Click the drop-down icon > Select Copy Schedule tab > Select the dates you want to copy the schedule using From tab > Select the Options, as per your requirements > Click Copy Shifts tab to copy the schedule from the selected timeline to the current calendar view.
+ 
+
+
+ 
+For Example:
+Step 1: I want the schedule to get copied to 11/19/2019 - 11/25/2019 so I have moved to that timeline.
+ 
+Step 2: I want the schedule to get copied from 11/5/2019 to 11/11/2019 to the current timeline; hence, I have added these dates next to From tab.
+ 
+Step 3: I wish to copy shift times only; therefore, I have selected that option.
+ 
+Step 4: Lastly, I have clicked the Copy Schedule tab to copy the schedule.
+
+That's it, the schedule will be copied to the current timeline!
+ 
+
+
+
+Notes:
+ 
+You can either copy shift time only or copy shift times and employee assignments.
+You may also check the box next to clear schedule before copying and it will remove the added schedule from the timeline you want the schedule to get copied at.
+The past schedule can also be used as a template to copy shifts into a future date which then can be adjusted as required.
+

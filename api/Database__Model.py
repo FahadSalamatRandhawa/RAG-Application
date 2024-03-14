@@ -32,17 +32,17 @@ class Database():
         retriever (a retriever instance of the vectoreStore [to pass to the llm model])
         """
 
-        try:
-            vectoreStore=MongoDBAtlasVectorSearch(self.client[database][collection],embedding_model)
-            docs=vectoreStore.similarity_search(query,K=1)
-            top_doc=docs[0].page_content
-            retriever=vectoreStore.as_retriever()
-            return top_doc,retriever
-        except Exception as e:
-            print("Error in querying database")
-            print(e)
+        vectoreStore=MongoDBAtlasVectorSearch(self.client[database][collection],embedding_model)
+        docs=vectoreStore.similarity_search(query,K=10)
+        retriever=vectoreStore.as_retriever()
+        return docs,retriever
+    
     
     def get_vectoreStore(self):
         return self.vectoreStore
+    
+    def Create_Collection(self,databsae:str,collection:str):
+        collection=self.client[databsae][collection]
+        return collection
 
 

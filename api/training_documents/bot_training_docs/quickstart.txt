@@ -1,0 +1,134 @@
+shiftTracker | Quick Start Guide For Employees
+ Learn quickly about shiftTracker's modules, the key functionalities and how to activate your account to get started.
+  
+Overview
+Welcome to shiftTracker, the online scheduling platform that optimizes employee scheduling, time tracking, vacation management, and payroll.
+ 
+Get started by activating your account from the welcome email you received. Log in from any browser to set up your account, enter your availability and view your schedule.
+ 
+Once you’ve set up your profile, download the shiftTracker mobile app to trade shifts with other employees, message your supervisor, pick up open shifts, or view the schedule that has been created for you by management. For any additional information, best practices, and support, visit helpcenter.shiftTracker.com or download the PDF here.
+ 
+
+
+
+
+Step 1: Activate your Account
+You’ll find an invitation to activate your shiftTracker account in your inbox. Be sure to click on the activation link and complete setting up your account. If you have not received this email, reach out to your manager or administrator.
+ 
+
+
+
+
+If you have not received this email, reach out to your manager or administrator.
+ 
+
+
+
+
+We recommend you write down your password. You’ll need this to log in to your account in the future, as well as to log in to the mobile app.
+ 
+On the Dashboard, if you are seeing a notification to confirm your email address, you must do so to receive email notifications.
+ 
+SMS Notifications
+From Edit Details, select your mobile provider and enter your mobile phone number.
+ 
+
+
+
+
+Then, visit the Dashboard to confirm your mobile number. Request a confirmation text!
+ 
+
+
+
+
+Once you receive the code, enter it in the Dashboard and submit. You’ll see the message below:
+ 
+
+
+
+
+Step 2: Download the shiftTracker App
+Visit the appropriate store to download the shiftTracker Mobile App and log in with your username and password.
+ 
+
+
+
+ 
+shiftTracker mobile App is available for Android and iOS, both of the operating systems.
+ 
+Visit the Dashboard and review your upcoming shifts. You can clock in, send trade requests or message your manager, all from the shiftTracker App.
+ 
+
+
+
+
+From the More tab, select Support and you can access live chat to reach the shiftTracker Support team. Ask quick questions or let them know if you’re experiencing any issues.
+ 
+ 
+You can access all features from the shiftTracker web platform. You will not need a mobile device to use shiftTracker. However, the mobile app allows for on-the-go access.
+ 
+Step 3: View your Schedule on ShiftPlanning
+If you’ve been scheduled for work, you’ll be able to view all of your upcoming shifts under the ShiftPlanning tab. shiftTracker allows for you to inform your manager if you’re unable to work a shift you’ve been assigned, to trade your shifts with colleagues who hold the same position, and to pick up an open shift. If you’re unable to perform any of these tasks, the feature may have been disabled by your management.
+ 
+
+
+
+
+Step 4: Set Your Availability
+Let your employer know what hours you are available for work. Your availability should reflect the hours you are available week after week. By default, you are set as available for all hours of the day.
+ 
+
+
+
+
+Use the Does Not Repeat availability feature to let your employer know when that availability changes for a one-off occurrence. For example, if you’re generally unavailable to work on Tuesdays, but you’re unable to work on a specific Tuesday, submit a one-time availability for that specific date.
+ 
+
+
+
+
+In the same way, if you’re generally available to work on a Monday, but you’re unable to work on a specific one, use the one-time availability to let your employer know you are not available.
+ 
+If the availability module is not visible at your end, this option has been restricted by your management. To make changes, please reach out to your manager.
+ 
+Optional: Trade Shifts and Sign Up for Open Shifts
+Visit the ShiftPlanning tab from the shiftTracker web platform, or from shiftTracker’s mobile app.
+ 
+If you’re unable to work the shift you’re scheduled, select that shift and tap on Can’t Work. Trade your shift with a colleague by selecting one of their shifts you can work in their place. Depending on the settings, this may be approved once your colleague accepts the trade, or the trade may need approval from your manager.
+ 
+
+
+
+
+If open shifts are enabled, you’ll be able to visit the Pick-Up tab to sign up for shifts through ShiftPlanning on the mobile app or by logging in through the web browser, find the open shifts on your Dashboard.
+ 
+Optional: Clock In and Out
+There are multiple ways to clock in as an employee. You can clock in and out from the shiftTracker mobile app 
+
+
+
+or after logging into your account on the web platform. Management may have set up terminals for you to clock in and out that may require you to log in with your shiftTracker username and password.
+ 
+ 
+There are security measures that can be customized to prevent false clock-ins, such as:
+ 
+·   	GPS location: clocking in/out can take place only at specific locations;
+·   	Webcam capture: upon clocking in/out, a picture may be required;
+·   	Password: in order to clock in/out, you must enter your account password.
+Some or all of the features may be enabled to protect your hours from being compromised by others.
+ 
+Upon approval of your clock-ins/outs, they will be added to your timesheet. You can view all of your hours worked, what times you’ve clocked in and out, and the time taken for breaks on the Time Clock Module.
+ 
+Optional: Request Time Off
+Use the Leave feature to request time off, whether it is paid or unpaid. All of your pending and approved requests can be viewed here. You can also view how many vacation days or sick days you have remaining.
+ 
+
+
+
+
+If you are unable to select a leave type, this means that your manager has not added the leave types for you. Please reach out to your manager or shiftTracker administrator to get these enabled.
+ 
+ 
+ 
+

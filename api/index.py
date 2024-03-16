@@ -66,7 +66,7 @@ async def upload_To_Database(files:List[UploadFile] = File(...)):
         print(e)
         raise HTTPException(status_code=500, detail="Error in uploading to database")
 
-@app.post("/api/chat")
+@app.post("/api/getresponse")
 def chat(query:str=Body()):
     print(query)
     collection=database.get_collection("rag_demo","training_documents")

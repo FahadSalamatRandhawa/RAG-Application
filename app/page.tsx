@@ -20,7 +20,7 @@ export default function Home() {
     formData.append('files', files[i]);
   }
   console.log("Form data files",formData.getAll("files"))
-    const response=await fetch('http://localhost:3000/api/upload',{method:"POST",body:formData})
+    const response=await fetch(`http://localhost:3000/api/upload`,{method:"POST",body:formData})
 
     if(response.ok){
       console.log(response)

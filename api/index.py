@@ -1,8 +1,8 @@
 from fastapi import FastAPI, Depends,Body,UploadFile,File,HTTPException
-from api.Database__Model import Database
+from api._Database__Model import Database
 from langchain.document_loaders import DirectoryLoader
 from langchain.embeddings.openai import OpenAIEmbeddings
-from api.OpenAI__Model import OpenAi_Model
+from api._OpenAI__Model import OpenAi_Model
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from dotenv import load_dotenv,find_dotenv
 import os

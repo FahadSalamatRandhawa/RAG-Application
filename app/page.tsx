@@ -36,7 +36,7 @@ export default function Home() {
         <Input
           type="file" multiple
         onChange={(e)=>setFiles(e.target.files)} />
-        <Button disabled={!files} onClick={handle_File_Upload} >Upload to db</Button>
+        <button disabled={!files} onClick={handle_File_Upload} >Upload to db</button>
       </div>
 
       {/* Chat section */}

@@ -3,7 +3,7 @@ import { ChatOpenAI } from 'langchain/chat_models/openai';
 import { AIMessage, HumanMessage } from 'langchain/schema';
 import { NextResponse } from 'next/server';
 
-export const runtime = 'edge';
+//export const runtime = 'edge';
 
 
 export async function POST(req: Request) {

@@ -11,6 +11,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@langchain/openai": "^0.0.21",
     "@radix-ui/react-slot": "^1.0.2",
     "@radix-ui/react-toast": "^1.1.5",
     "@types/node": "20.2.4",

@@ -1,5 +1,5 @@
 import { StreamingTextResponse, LangChainStream, Message } from 'ai';
-import { ChatOpenAI } from 'langchain/chat_models/openai';
+import { ChatOpenAI } from '@langchain/openai';
 import { AIMessage, HumanMessage } from 'langchain/schema';
 import { NextResponse } from 'next/server';
 
@@ -10,9 +10,9 @@ export const runtime = 'edge';
 export async function POST(req: Request) {
   const { messages } = await req.json();
   const currentMessageContent = messages[messages.length - 1].content;
-  console.log(currentMessageContent)
+  console.log(process.env.FASTAPI_URL)
 
-  let vectorSearch=await fetch(`http://localhost:3000/api/vectorsearch`,{method:"POST",headers: {"Content-Type": "application/json"},body:JSON.stringify(currentMessageContent)})
+  let vectorSearch=await fetch(`${process.env.FASTAPI_URL}/api/vectorsearch`,{method:"POST",headers: {"Content-Type": "application/json"},body:JSON.stringify(currentMessageContent)})
 
   if(!vectorSearch.ok){
     return NextResponse.json({error:"Error in vector search"}, {status:500})
